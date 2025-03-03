@@ -9,7 +9,7 @@ distribution, top-rated shows, country-wise contributions, and recent additions.
 --------------------------------------------------------------------------------------------------------------------------
 
 **Tools Used**
-MS Excel - Pre-cleanning 
+MS Excel - Pre-cleanning
 MySQL – Data Cleaning, Transformation & Analysis
 
 --------------------------------------------------------------------------------------------------------------------------
